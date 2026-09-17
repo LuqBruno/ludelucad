@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 430" role="img" aria-labelledby="title desc">
+  <title id="title">Reabili Fisioterapia</title>
+  <desc id="desc">Símbolo floral multicolorido e assinatura Reabili Fisioterapia</desc>
+  <g transform="translate(280 126)">
+    <path d="M-10-12C-47-49-49-89-25-121C12-101 28-64 14-20Z" fill="#8797d2"/>
+    <path d="M14-17C12-63 37-97 77-105C92-65 72-28 29-7Z" fill="#52b7db"/>
+    <path d="M27-3C64-28 104-22 128 9C101 42 62 44 23 18Z" fill="#61cad5"/>
+    <path d="M19 17C56 30 75 64 64 104C22 103-6 75-6 30Z" fill="#6bd2b5"/>
+    <path d="M-8 23C-9 65-36 91-76 91C-91 54-73 20-29 7Z" fill="#9670bd"/>
+    <path d="M-27 5C-69 20-105 5-123-28C-91-55-51-50-18-18Z" fill="#a37bc5"/>
+    <path d="M-20-17C-53-40-62-75-44-107C-7-97 14-67 3-26Z" fill="#9ba2dc"/>
+  </g>
+  <text x="280" y="322" text-anchor="middle" fill="#626163" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="-7">reabili</text>
+  <text x="280" y="372" text-anchor="middle" fill="#75cfc1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" letter-spacing="8">FISIOTERAPIA</text>
+</svg>
