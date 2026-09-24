@@ -1,4 +1,14 @@
-# Estado do projeto — Reabili Clínica de Fisioterapia
+# Estado do projeto — Ludelucad
+
+## Revisão vigente — 24/09/2026
+
+Reformulação pessoal autorizada pelo usuário para reunião comercial. Nome: Dra. Luciana De Luca Dalsasso; página @ludelucad. Repositório renomeado para LuqBruno/ludelucad. Não há contratação nem aprovação final confirmadas.
+
+Identidade própria: off-white/ameixa/lilás, tipografia Outfit, fotografias reais, animação de entrada breve e interações discretas. Contato confirmado na bio: 5548999645558. Endereço e telefone antigos da Reabili retirados do conteúdo ativo. Fontes e pendências: docs/direcao-ludelucad.md.
+
+Verificações em andamento: desktop/celular, imagens locais, navegação e publicação Pages. Próxima ação: validar publicação e apresentar à profissional; receber autorização de imagens, dados de registro, locais/horários e revisão dos textos.
+
+## Histórico Reabili (superado pela revisão acima)
 
 Atualização: 17/09/2026.
 

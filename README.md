@@ -1,6 +1,19 @@
-# Reabili Clínica de Fisioterapia — prévia comercial
+# Ludelucad — Dra. Luciana De Luca Dalsasso
 
-Prévia navegável, não publicada e sem contratação/aprovação confirmada. A página foi criada como uma direção visual específica para a Reabili: azul-claro, turquesa, lilás suave e grafite, com ritmo editorial inspirado em movimento e recuperação. Não reutiliza conteúdo ou identidade dos demais clientes.
+Prévia comercial pessoal, sem contratação/aprovação final confirmada. Em 24/09/2026, a pedido do usuário, a apresentação da Reabili foi substituída por uma identidade exclusiva da fisioterapeuta Luciana De Luca Dalsasso (@ludelucad). A pasta local mantém o nome histórico para preservar a organização; o repositório foi renomeado para `LuqBruno/ludelucad`.
+
+Prévia: https://luqbruno.github.io/ludelucad/.
+
+## Decisão vigente — 24/09/2026
+
+- Off-white, ameixa, lilás e rosa suaves; Outfit/DM Sans, linha contínua e fotografia real.
+- WhatsApp oficial da bio: (48) 99964-5558. O número e endereço anteriores da clínica não são usados na nova página.
+- Conteúdo: apresentação, fisioterapia pélvica/abdominal, biografia, primeiro contato e conteúdo educativo do perfil.
+- HTML/CSS/JS estáticos, sem dependências de execução ou build. Menu responsivo e details nativos, conteúdo acessível sem JavaScript e preferência por movimento reduzido respeitada.
+- Imagens locais WebP, sem links temporários do Instagram; procedência e pendências em `docs/direcao-ludelucad.md`.
+- Ainda confirmar: registro profissional, locais/horários atuais, autorização comercial das fotos, originais em alta e aprovação editorial.
+
+Os registros abaixo são históricos da antiga prévia Reabili, não dados vigentes da página pessoal.
 
 ## Executar
 
