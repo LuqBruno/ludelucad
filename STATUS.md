@@ -6,7 +6,11 @@ Reformulação pessoal autorizada pelo usuário para reunião comercial. Nome: D
 
 Identidade própria: off-white/ameixa/lilás, tipografia Outfit, fotografias reais, animação de entrada breve e interações discretas. Contato confirmado na bio: 5548999645558. Endereço e telefone antigos da Reabili retirados do conteúdo ativo. Fontes e pendências: docs/direcao-ludelucad.md.
 
-Verificações em andamento: desktop/celular, imagens locais, navegação e publicação Pages. Próxima ação: validar publicação e apresentar à profissional; receber autorização de imagens, dados de registro, locais/horários e revisão dos textos.
+Verificações realizadas nesta revisão: sintaxe JS (node --check), git diff --check; inspeção visual a 1440, 390 e 320 px, sem rolagem horizontal; 3 imagens carregadas; menu abre/fecha e fecha após navegação; seção abdominal expansível funcional; âncoras existentes e nenhum erro de console observado. Preferência por movimento reduzido prevista em CSS/JS, sem ocultar conteúdo para depender de animação.
+
+Publicação: https://luqbruno.github.io/ludelucad/ respondeu HTTP 200 com o novo conteúdo. As 3 fotos WebP, CSS e JS também responderam 200. Revisão de código b134a9b. O antigo endereço Pages da Reabili foi substituído: compartilhar o link Ludelucad. A pasta local permanece com o nome histórico, documentado no README.
+
+Próxima ação: apresentar à profissional; receber autorização comercial de imagens, dados de registro, locais/horários atuais e revisão dos textos. A prévia está publicada por autorização do usuário, não equivale à aprovação da profissional.
 
 ## Histórico Reabili (superado pela revisão acima)
 
