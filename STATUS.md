@@ -1,5 +1,19 @@
 # Estado do projeto — Ludelucad
 
+## Revisão v2 — 25/09/2026 (prévia pessoal)
+
+Primeira dobra: fotografia real com enquadramento via CSS focado no rosto; frase principal preservada; especialidade e cidade visíveis imediatamente. Texto de apoio reduzido para aproximar a foto e o CTA no celular.
+
+Atendimentos: descrições pélvica e abdominal revisadas com base nos posts públicos indicados em docs/direcao-ludelucad.md. Os exemplos orientam a busca por avaliação e não prometem diagnóstico ou resultado. A seção repetitiva de três passos foi retirada. Conteúdo do Instagram: duas capas reais otimizadas e resumos específicos.
+
+Contato: cinco links de WhatsApp apontam para 5548999645558; cabeçalho, hero e fechamento usam a mesma mensagem inicial. Links dos atendimentos fazem perguntas específicas. Os 23 anos de experiência e o número foram reconfirmados na bio de @ludelucad.
+
+Verificações desta rodada: inspeção visual antes/depois em 1440, 390, 320 e 430 px; fotografias, títulos e capas conferidos; nenhum estouro horizontal em 1440/320/390/430; cinco imagens carregadas; menu aberto/fechado e navegação para atuação testados em 320 px; acordeão abdominal expandido em 430 px; âncoras presentes; sintaxe JS e git diff --check sem falhas. A versão publicada ainda é a anterior até a conclusão do fluxo de publicação desta revisão.
+
+Pendências: autorização de uso comercial das fotografias e artes do perfil; originais em alta; revisão editorial da Luciana; horários, locais e registro profissional. A página permanece uma prévia comercial sem contratação/aprovação final confirmada.
+
+## Histórico anterior
+
 ## Revisão vigente — 24/09/2026
 
 Reformulação pessoal autorizada pelo usuário para reunião comercial. Nome: Dra. Luciana De Luca Dalsasso; página @ludelucad. Repositório renomeado para LuqBruno/ludelucad. Não há contratação nem aprovação final confirmadas.

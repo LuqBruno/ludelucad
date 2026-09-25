@@ -4,6 +4,14 @@ Prévia comercial pessoal, sem contratação/aprovação final confirmada. Em 24
 
 Prévia: https://luqbruno.github.io/ludelucad/.
 
+## Refinamento de 25/09/2026
+
+- Enquadramento do hero ajustado para dar prioridade ao rosto da Luciana em desktop e celular, sem manipular a fotografia original.
+- Atendimentos descritos com exemplos presentes nas publicações da profissional; avaliação apresentada como individual, sem promessa de resultado.
+- A sequência de três passos repetitivos foi retirada. A seção de conteúdo agora apresenta duas publicações reais com capas locais e resumos editoriais.
+- Cabeçalho, hero e CTA final levam ao WhatsApp da bio com a mesma mensagem inicial. Serviços mantêm perguntas específicas sobre cada área.
+- Verificações e pendências desta rodada em STATUS.md e fontes em docs/direcao-ludelucad.md.
+
 ## Decisão vigente — 24/09/2026
 
 - Off-white, ameixa, lilás e rosa suaves; Outfit/DM Sans, linha contínua e fotografia real.
